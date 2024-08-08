@@ -5,7 +5,7 @@ Cargo.lock
 codecrafters.yml
 **/*.rs.bk
 .codecrafters/
-
+tmux*.*
 *.pdb
 
 codecrafters.yml
